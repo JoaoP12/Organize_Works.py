@@ -1,7 +1,8 @@
 # Organize_Works.py
 Just a simple personal project to practice OOP, clean code and connection with Databases
 
-start menu:
+Start menu:
+
 ![Starting menu](https://user-images.githubusercontent.com/54481433/74450259-33b5e700-4e54-11ea-8052-c5d96f5459ae.PNG)
 
 Of course each option leads to each respective function:
@@ -13,3 +14,4 @@ And inside the functions of the start menu it has more functions like Add or del
 ![Delete Work_Test](https://user-images.githubusercontent.com/54481433/74450505-8a232580-4e54-11ea-8f4c-84dfcc63fcf7.PNG)
 
 
+The program allows you to Add, See and Delete works and tests, It doesn't have an GUI because it's just a simple project to practice what I've learned about Python and DB's

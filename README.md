@@ -1,14 +1,15 @@
 # Organize_Works.py
 Just a simple personal project to practice OOP, clean code and connection with Databases
 
-It has a start menu:
-![Alt text](relative/path/to/img.png?raw=true "Starting menu")
+start menu:
+![Starting menu](https://user-images.githubusercontent.com/54481433/74450259-33b5e700-4e54-11ea-8052-c5d96f5459ae.PNG)
 
 Of course each option leads to each respective function:
-![Alt text](relative/path/to/img.png?raw=true "Works")
-![Alt text](relative/path/to/img.png?raw=true "Tests")
+![Works](https://user-images.githubusercontent.com/54481433/74450472-7f689080-4e54-11ea-9d4b-fb92a63659da.PNG)
+![Tests](https://user-images.githubusercontent.com/54481433/74450482-842d4480-4e54-11ea-9b9a-bd19ba98b85f.PNG)
 
 And inside the functions of the start menu it has more functions like Add or delete works/tests:
-![Alt text](relative/path/to/img.png?raw=true "New Work_Test")
-![Alt text](relative/path/to/img.png?raw=true "Delete Work_Test")
+![New Work_Test](https://user-images.githubusercontent.com/54481433/74450492-87c0cb80-4e54-11ea-8461-7d6af26b477e.PNG)
+![Delete Work_Test](https://user-images.githubusercontent.com/54481433/74450505-8a232580-4e54-11ea-8f4c-84dfcc63fcf7.PNG)
+
 
